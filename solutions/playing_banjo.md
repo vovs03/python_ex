@@ -2,6 +2,8 @@
 
 > Очень усложнено(костыльно) конструкцией
 > `./playingbanjo.py`
+>
+> прикрепил решение на [replit.com](https://replit.com/@vovs03/playingBanjo#main.py)
 
 ## Элегантные решение имхо
 
