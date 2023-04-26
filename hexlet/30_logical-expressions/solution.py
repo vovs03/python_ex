@@ -23,5 +23,3 @@ string_or_not("")
 string_or_not(12)
 string_or_not(True)
 
-# isinstance(3, str) # False
-# isinstance('Hexlet', str) # True
