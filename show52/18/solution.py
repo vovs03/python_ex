@@ -20,3 +20,8 @@ print_two("Михаил", "Райтман")
 print_two_again("Михаил", "Райтман")
 print_one("Первый!")
 print_none()
+
+def _r5():
+	print("func name: _r5")
+
+_r5()
